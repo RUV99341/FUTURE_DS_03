@@ -36,7 +36,7 @@ Here are some visual highlights from the analysis:
 | ⚠️ **Weak Feedback Questions**     | ![Weak Areas](visuals/weak_questions.png) |
 | 🧪 **Rating by Academic Stream**   | ![Stream Ratings](visuals/course_rating.png) |
 | 👥 **Feedback Submission Counts**  | ![Submissions](visuals/satisfaction_streams.png) |
-| 🔁 **Rating vs Participation**     | ![Correlation](visuals/Participation_Rating.png) |
+| 🔁 **Rating vs Participation**     | ![Correlation](visuals/participation_rating.png) |
 | 🧯 **Heatmap of Ratings**          | ![Heatmap](visuals/participation_correlation.png) |
 
 ---
