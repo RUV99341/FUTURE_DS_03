@@ -1,0 +1,39 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Colab / Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+*.env
+.venv/
+
+# Streamlit temp & logs
+.streamlit/config.toml
+.streamlit/credentials.toml
+
+# macOS & Windows hidden files
+.DS_Store
+Thumbs.db
+
+# Ngrok logs
+ngrok.log
+
+# Output files
+*.log
+*.csv
+*.xlsx
+*.zip
+
+# Python-specific
+*.egg-info/
+dist/
+build/
+
+# VSCode
+.vscode/
