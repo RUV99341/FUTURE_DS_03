@@ -112,5 +112,6 @@ This project is licensed under the MIT License.
 
 🐙 [GitHub](https://github.com/RUV99341)
 
+🎈 [Streamlit Dashboard](https://appapp-ixurq4fxzagt2pgnth2bn3.streamlit.app)
 
 ---
