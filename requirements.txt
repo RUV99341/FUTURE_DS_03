@@ -1,0 +1,16 @@
+# Core Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Web App
+streamlit
+
+# Ngrok tunnel for Google Colab (optional)
+pyngrok
+
+# For compatibility with CSV encodings
+chardet
